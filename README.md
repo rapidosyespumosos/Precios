@@ -36,11 +36,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
-                            class="d-block w-100" alt="...">
+                            class="d-block w-100" alt="..." height="450">
                     </div>
                     <div class="carousel-item">
                         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p1.jpeg"
-                            class="d-block w-100" alt="...">
+                            class="d-block w-100" alt="..." height="450">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
