@@ -96,8 +96,8 @@
             <div class="col-md-3">
                 <h1 class="text-center">Labado vehiculo</h1>
                 <h3 class="text-center">Teniendo las herramientas necesarias y de calidad entregamos lavados
-                    completos de
-                    interior y exterior del vehiculo brindando el mejor ttrabajo posible</h3>
+                    completos de interior y exterior del vehiculo brindando el mejor ttrabajo posible</h3>
+                    
                 <br>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
                     alt="" class="w-100" height="250">
@@ -112,6 +112,16 @@
                     alt="" class="w-100" height="250">
                 <br><br>
             </div>
+            <br>
+            <div class="col-md-3">
+                    <h1 class="text-center">Tapiceria</h1>
+                    <h3 class="text-center">Con implementos de altas calidad se promete una limpieza de tapiceria como
+                    corresponde.</h3>
+                    <br>
+                    <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos-Y-Espumosos/1f5aaf7d6d9b1c9c4e539c4058473d3c5be55eb8/p8.jpeg"
+                        alt="" class="w-100" height="250" width="">
+                    <br><br>
+                </div>
             <div class="row">
                 <div class="col-md-3">
                     <h1 class="text-center">Lavado vehiculo</h1>
@@ -137,6 +147,15 @@
                     <h3 class="text-center">Info</h3>
                     <br>
                     <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p12.PNG"
+                        alt="" class="w-100" height="250" width="">
+                    <br><br>
+                </div>
+                <div class="col-md-3">
+                    <h1 class="text-center">Lavado de auto.</h1>
+                    <h3 class="text-center">Teniendo las herramientas necesarias y de calidad entregamos lavados
+                    completos de interior y exterior del vehiculo brindando el mejor ttrabajo posible</h3>
+                    <br>
+                    <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos-Y-Espumosos/1f5aaf7d6d9b1c9c4e539c4058473d3c5be55eb8/p3.PNG"
                         alt="" class="w-100" height="250" width="">
                     <br><br>
                 </div>
