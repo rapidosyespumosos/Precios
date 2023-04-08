@@ -81,8 +81,6 @@
                 <br><br>
             </div>
             <br><br>
-            <div class="row">
-            </div>
         </div>
     </div>
     <br>
