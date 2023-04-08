@@ -85,7 +85,7 @@
             <div class="col-3 gx-15 bordes">
                 <h1 class="text-center">Aprovecha las ofertas!!.</h1>
                 <h3 class="text-center"></h3>
-                <img src="https://drive.google.com/drive/u/1/my-drive"
+                <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/143edcd4b7bfa613568839d574e5155c6063a3ac/p15.PNG"
                     alt="" class="w-100" height="250">
                 <br><br>
             </div>
@@ -139,8 +139,7 @@
     <div class="col-3 gx-15 bordes">
         <h1 class="text-center">Aprovecha las ofertas!!.</h1>
         <h3 class="text-center"></h3>
-        <img src=""
-            alt="" class="w-100" height="250">
+        <img src="" alt="" class="w-100" height="250">
         <br><br>
     </div>
     <div class="col-3 gx-15 bordes">
@@ -157,15 +156,7 @@
             alt="" class="w-100" height="250">
         <br><br>
     </div>
-    <div class="col-3 gx-15 bordes">
-        <h1 class="text-center">Tapiceria</h1>
-        <h3 class="text-center"></h3>
-        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg"
-            alt="" class="w-100" height="250">
-        <br><br>
-    </div>
-    </div>
-
+</div>
 
 
 
