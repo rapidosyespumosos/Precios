@@ -156,7 +156,7 @@
             alt="" class="w-100" height="250">
         <br><br>
     </div>
-</div>
+
 
 
 
