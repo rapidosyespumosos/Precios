@@ -36,11 +36,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
-                            class="d-block w-100" alt="..." height="450">
+                            class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
                         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p1.jpeg"
-                            class="d-block w-100" alt="..." height="450">
+                            class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
@@ -79,26 +79,32 @@
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/143edcd4b7bfa613568839d574e5155c6063a3ac/p15.PNG"
                 alt="" class="w-100" height="450" width="700">
             <br><br>
+            <div class="col-6">
+                <h1 class="text-center">Codigo QR</h1>
+                <h3>Te direccionamos a la pagina de instagram para mas info.</h3>
+                <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/qrespumoso.PNG"
+                    alt="" class="w-100" height="250">
+            </div>
         </div>
     </div>
     <br>
     <hr>
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p10.PNG?raw=true" alt="" class="w-100"
                 height="250">
             <br><br>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Labado vehiculo</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
                 alt="" class="w-100" height="250">
             <br><br>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p13.PNG"
@@ -106,7 +112,7 @@
             <br><br>
         </div>
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <h1 class="text-center">Lavado vehiculo</h1>
                 <h3 class="text-center"></h3>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
@@ -114,14 +120,14 @@
                 <br><br>
             </div>
             <br><br>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <h1 class="text-center">Tapiceria</h1>
                 <h3 class="text-center"></h3>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
                     alt="" class="w-100" height="250">
                 <br><br>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <h1 class="text-center">Aprovecha!!.</h1>
                 <h3 class="text-center"></h3>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p12.PNG"
