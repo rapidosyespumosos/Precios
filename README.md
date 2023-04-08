@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">RapidosyEspumosos</a>
+            <a class="navbar-brand" href="https://rapidosyespumosos.github.io/Rapidos/#">RapidosyEspumosos</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -24,7 +24,7 @@
                 <!-- se hizo la clase espacio para poder poner el margin a la izquierda -->
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 espacio">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="">Inicio</a>
+                        <a class="nav-link active" aria-current="page" href="https://rapidosyespumosos.github.io/Rapidos/#">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -32,7 +32,7 @@
                             Opciones
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="#">Precios</a></li>
+                            <li><a class="dropdown-item" href="https://rapidosyespumosos.github.io/Precios/">Precios</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -101,9 +101,7 @@
             <h3 class="text-center">Precio: $15.000 </h3>
             <img src="../img/p6.jpeg" alt="" class="w-100" height="280">
             <br><br>
-
         </div>
-
     </div>
 
 
