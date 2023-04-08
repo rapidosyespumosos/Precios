@@ -70,7 +70,9 @@
             <h3>Solo calidad en productos y los mejores resultados posibles no te arrepentiras!.</h3>
             <br>
             <hr><br>
-            <h3>Contactos: +56 9 8131 2944 - rapidoyespumosos2023@gmail.com</h3>
+            <h3>Contactos: +56 9 8131 2944 - rapidoyespumosos2023@gmail.com - <a
+                    href="https://www.instagram.com/rapidosyespumosos.limpieza">https://www.instagram.com/rapidosyespumosos.limpieza/
+            </h3></a>
             <br>
             <hr><br>
             <h1 class="text-center">Aprovecha las ofertas!!.</h1>
@@ -80,7 +82,7 @@
                 alt="" class="w-100" height="450" width="700">
             <br><br>
             <div class="col-6" clear="left">
-                <h1 class="text-center" >Codigo QR</h1>
+                <h1 class="text-center">Codigo QR</h1>
                 <h3>Te direccionamos a la pagina de instagram para mas info.</h3>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/qrespumoso.PNG"
                     alt="" class="w-100" height="250">
@@ -94,7 +96,7 @@
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Con implementos de altas calidad se promete una limpieza de tapiceria como
                 corresponde.</h3>
-                <br>
+            <br>
             <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p10.PNG?raw=true" alt="" class="w-100"
                 height="250">
             <br><br>
@@ -103,7 +105,7 @@
             <h1 class="text-center">Labado vehiculo</h1>
             <h3 class="text-center">Teniendo las herramientas necesarias y de calidad entregamos lavados completos de
                 interior y exterior del vehiculo brindando el mejor ttrabajo posible</h3>
-                <br>
+            <br>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
                 alt="" class="w-100" height="250">
             <br><br>
@@ -112,7 +114,7 @@
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Con implementos de altas calidad se promete una limpieza de tapiceria como
                 corresponde.</h3>
-                <br>
+            <br>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p13.PNG"
                 alt="" class="w-100" height="250">
             <br><br>
@@ -122,7 +124,7 @@
                 <h1 class="text-center">Lavado vehiculo</h1>
                 <h3 class="text-center">Teniendo las herramientas necesarias y de calidad entregamos lavados completos
                     de interior y exterior del vehiculo brindando el mejor ttrabajo posible</h3>
-                    <br>
+                <br>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
                     alt="" class="w-100" height="250">
                 <br><br>
@@ -132,7 +134,7 @@
                 <h1 class="text-center">Tapiceria</h1>
                 <h3 class="text-center">Con implementos de altas calidad se promete una limpieza de tapiceria como
                     corresponde.</h3>
-                    <br>
+                <br>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
                     alt="" class="w-100" height="250">
                 <br><br>
