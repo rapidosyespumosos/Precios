@@ -1,4 +1,5 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,6 +9,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilos.css">
 </head>
+
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -64,7 +66,30 @@
         </div>
         <div class="col-6">
             <h1 class="text-center">RapidosyEspumosos</h1>
+            <br>
+            <hr><br>
+            <b>
+                <h3>Servicio de limpiesa</h3>
+            </b>
+            <br>
+            <hr><br>
+            <h3>Remocion de manchas, olores, acaros, sanatizacion de tapiceria automotris y de hogar.</h3>
+            <br>
+            <hr><br>
             <h3>Solo calidad en productos y los mejores resultados posibles no te arrepentiras!.</h3>
+            <br>
+            <hr><br>
+            <h3>Contactos: +56 9 8131 2944 - rapidoyespumosos2023@gmail.com</h3>
+            <br>
+            <hr><br>
+            <div class="col-3 gx-15 bordes">
+                <h1 class="text-center">Aprovecha las ofertas!!.</h1>
+                <h3 class="text-center"></h3>
+                <img src="https://drive.google.com/drive/u/1/my-drive"
+                    alt="" class="w-100" height="250">
+                <br><br>
+            </div>
+            <br><br>
             <div class="row">
                 <div class="col-4">
                 </div>
@@ -76,65 +101,75 @@
     <div class="row">
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: </h3>
+            <h3 class="text-center"></h3>
             <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p10.PNG?raw=true" alt="" class="w-100"
                 height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Labado interno vehiculo</h1>
-            <h3 class="text-center">Precio: </h3>
-            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG" alt="" class="w-100"
-                height="250">
+            <h3 class="text-center"></h3>
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
+                alt="" class="w-100" height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: </h3>
-            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p13.PNG" alt="" class="w-100" height="250">
+            <h3 class="text-center"></h3>
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p13.PNG"
+                alt="" class="w-100" height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Lavado autos exterior</h1>
-            <h3 class="text-center">Precio: </h3>
-            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg" alt="" class="w-100"
-                height="250">
+            <h3 class="text-center"></h3>
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
+                alt="" class="w-100" height="250">
             <br><br>
         </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: $15.000 </h3>
-            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg" alt="" class="w-100"
-                height="250">
-            <br><br>
-        </div>
-        <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Info</h3>
-            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt="" class="w-100"
-                height="250">
-            <br><br>
-        </div>
-                <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Limpieza vehiculo completa</h1>
-            <h3 class="text-center">Info</h3>
-            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg" alt="" class="w-100"
-                height="250">
-            <br><br>
-        </div>
-                <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Info</h3>https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg
-            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg" alt="" class="w-100"
-                height="250">
-            <br><br>
-        </div>
+        <br><br>
+    </div>
+    <div class="col-3 gx-15 bordes">
+        <h1 class="text-center">Tapiceria</h1>
+        <h3 class="text-center"></h3>
+        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg"
+            alt="" class="w-100" height="250">
+        <br><br>
+    </div>
+    <div class="col-3 gx-15 bordes">
+        <h1 class="text-center">Aprovecha las ofertas!!.</h1>
+        <h3 class="text-center"></h3>
+        <img src=""
+            alt="" class="w-100" height="250">
+        <br><br>
+    </div>
+    <div class="col-3 gx-15 bordes">
+        <h1 class="text-center">Tapiceria</h1>
+        <h3 class="text-center"></h3>
+        <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt="" class="w-100"
+            height="250">
+        <br><br>
+    </div>
+    <div class="col-3 gx-15 bordes">
+        <h1 class="text-center">Limpieza vehiculo completa</h1>
+        <h3 class="text-center"></h3>
+        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
+            alt="" class="w-100" height="250">
+        <br><br>
+    </div>
+    <div class="col-3 gx-15 bordes">
+        <h1 class="text-center">Tapiceria</h1>
+        <h3 class="text-center"></h3>
+        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg"
+            alt="" class="w-100" height="250">
+        <br><br>
+    </div>
     </div>
 
 
 
 
-   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
 </body>
