@@ -58,23 +58,19 @@
     </div>
     <div class="col-6">
         <h1 class="text-center">RapidosyEspumosos</h1>
-        <br>
-        <hr><br>
+        <hr>
         <b>
             <h3>Servicio de limpiesa</h3>
         </b>
-        <br>
-        <hr><br>
+        <hr>
         <h3>Remocion de manchas, olores, acaros, sanatizacion de tapiceria automotris y de hogar.</h3>
-        <br>
-        <hr><br>
+        <hr>
         <h3>Solo calidad en productos y los mejores resultados posibles no te arrepentiras!.</h3>
         <br>
         <hr><br>
         <h3>Contactos: +56 9 8131 2944 - rapidoyespumosos2023@gmail.com - <a
                 href="https://www.instagram.com/rapidosyespumosos.limpieza">https://www.instagram.com/rapidosyespumosos.limpieza/</a>
         </h3>
-        <br>
         <hr><br>
         <h1 class="text-center">Aprovecha las ofertas!!.</h1>
         <h3 class="text-center">aventurate a consultar los muy accesibles precios quenofrecemos, no duden en
