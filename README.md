@@ -126,11 +126,9 @@
                 <br><br>
                 <div class="col-md-3">
                     <h1 class="text-center">Tapiceria</h1>
-                    <h3 class="text-center">Con implementos de altas calidad se promete una limpieza de tapiceria
-                        como
-                        corresponde.</h3>
+                    <h3 class="text-center">Con implementos de altas calidad se promete una limpieza de tapiceria como corresponde.</h3>    
                     <br>
-                    <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
+                    <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos-Y-Espumosos/1f5aaf7d6d9b1c9c4e539c4058473d3c5be55eb8/p6.jpeg.jpg"
                         alt="" class="w-100" height="250">
                     <br><br>
                 </div>
