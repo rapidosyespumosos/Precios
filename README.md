@@ -42,24 +42,6 @@
     <br>
     <hr><br>
 
-    <div class="row">
-        <div class="col-6">
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="455">
-        </div>
-        <div class="col-6">
-            <h1 class="text-center">RapidosyEspumosos</h1>
-            <h3>Solo calidad en productos y los mejores resultados posibles no te arrepentiras!.</h3>
-            <div class="row">
-                <div class="col-4">
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <br>
-    <hr><br>
-
     <div class="row bg-light">
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
@@ -103,6 +85,7 @@
             <br><br>
         </div>
     </div>
+
 
 
 
