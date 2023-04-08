@@ -71,8 +71,7 @@
             <br>
             <hr><br>
             <h3>Contactos: +56 9 8131 2944 - rapidoyespumosos2023@gmail.com - <a
-                    href="https://www.instagram.com/rapidosyespumosos.limpieza">https://www.instagram.com/rapidosyespumosos.limpieza/
-            </h3></a>
+                    href="https://www.instagram.com/rapidosyespumosos.limpieza">https://www.instagram.com/rapidosyespumosos.limpieza/</a></h3>            
             <br>
             <hr><br>
             <h1 class="text-center">Aprovecha las ofertas!!.</h1>
