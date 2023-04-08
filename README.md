@@ -58,7 +58,7 @@
         <div class="col-6">
             <h1 class="text-center">RapidosyEspumosos</h1>
             <br>
-            <hr><br> width=""
+            <hr><br> 
             <b>
                 <h3>Servicio de limpiesa</h3>
             </b>
@@ -82,7 +82,7 @@
         </div>
     </div>
     <br>
-    <hr><br>
+    <hr>
     <div class="bg-light">
         <div class="col-md-3">
             <h1 class="text-center">Tapiceria</h1>
