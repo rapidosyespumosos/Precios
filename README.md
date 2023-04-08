@@ -52,6 +52,10 @@
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p12.PNG"
                     alt="" class="w-100" height="280">
                 <br><br>
+                <a href="https://rapidosyespumosos.github.io/Precios/">
+                    <center><button class="btn btn-dark" type="button">Precio</button></center>
+                </a>
+                <br><br>
 
             </div>
             <div class="col-3 gx-15 bordes">
@@ -60,6 +64,10 @@
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/e42570dc5a512c3971448f41b78c7a40dfda9da6/p10.PNG"
                     alt="" class="w-100" height="280">
                 <br><br>
+                <a href="https://rapidosyespumosos.github.io/Precios/">
+                    <center><button class="btn btn-dark" type="button">Precio</button></center>
+                </a>
+                <br><br>
 
             </div>
             <div class="col-3 gx-15 bordes">
@@ -67,8 +75,11 @@
                 <h3 class="text-center">Precios: $</h3>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
                     alt="" class="w-100" height="250">
-                <br>
-                <hr><br>
+                    <a href="https://rapidosyespumosos.github.io/Precios/">
+                        <center><button class="btn btn-dark" type="button">Precio</button></center>
+                    </a>
+                <br><br>
+                
                 <div class="col-3 gx-15 bordes">
                     <h1 class="text-center">Tapiceria</h1>
                     <h3 class="text-center"></h3>
@@ -147,46 +158,47 @@
                                         alt="" class="w-100" height="250">
                                     <br><br>
                                     <a href="https://rapidosyespumosos.github.io/Precios/">
-                                        <center><button </div>
+                                        <center><button class="btn btn-dark" type="button">Precio</button></center>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <br><br>
                 </div>
-                <div class="col-3 gx-15 bordes">
-                    <h1 class="text-center">Lavado autos exterior</h1>
-                    <h3 class="text-center">Precios: $</h3>
-                    <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/e42570dc5a512c3971448f41b78c7a40dfda9da6/p3.PNG"
-                        alt="" class="w-100" height="280">
-                    <br><br>
-
-                </div>
-                <div class="col-3 gx-15 bordes">
-                    <h1 class="text-center">Tapiceria</h1>
-                    <h3 class="text-center">Precios: $</h3>
-                    <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg"
-                        alt="" class="w-100" height="280">
-                    <br><br>
-
-                </div>
-                <div class="col-3 gx-15 bordes">
-                    <h1 class="text-center">Tapiceria</h1>
-                    <h3 class="text-center">Precios: $</h3>
-                    <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p8.jpeg?raw=true" alt=""
-                        class="w-100" height="280">
-                    <br><br>
-
-                </div>
+                <br><br>
+            </div>
+            <div class="col-3 gx-15 bordes">
+                <h1 class="text-center">Lavado autos exterior</h1>
+                <h3 class="text-center">Precios: $</h3>
+                <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/e42570dc5a512c3971448f41b78c7a40dfda9da6/p3.PNG"
+                    alt="" class="w-100" height="280">
+                <br><br>
 
             </div>
+            <div class="col-3 gx-15 bordes">
+                <h1 class="text-center">Tapiceria</h1>
+                <h3 class="text-center">Precios: $</h3>
+                <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg"
+                    alt="" class="w-100" height="280">
+                <br><br>
+
+            </div>
+            <div class="col-3 gx-15 bordes">
+                <h1 class="text-center">Tapiceria</h1>
+                <h3 class="text-center">Precios: $</h3>
+                <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p8.jpeg?raw=true" alt=""
+                    class="w-100" height="280">
+                <br><br>
+
+            </div>
+
         </div>
+    </div>
+    </div>
 
 
-
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
 </body>
 
 </html>
