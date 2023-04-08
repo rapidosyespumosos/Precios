@@ -77,7 +77,7 @@
             <h3 class="text-center">aventurate a consultar los muy accesibles precios quenofrecemos, no duden en
                 contactarnos a traves de via watsaap o por el correo datado anteriormente.</h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/143edcd4b7bfa613568839d574e5155c6063a3ac/p15.PNG"
-                alt="" class="w-100" height="450">
+                alt="" class="w-100" height="450" width="700">
             <br><br>
     </div>
     </div>
