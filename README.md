@@ -73,7 +73,7 @@
             <h3>Contactos: +56 9 8131 2944 - rapidoyespumosos2023@gmail.com</h3>
             <br>
             <hr><br>
-            <div class="col-3 gx-15 bordes">
+            <div class="col-md-3 gx-15 bordes">
                 <h1 class="text-center">Aprovecha las ofertas!!.</h1>
                 <h3 class="text-center"></h3>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/143edcd4b7bfa613568839d574e5155c6063a3ac/p15.PNG"
@@ -82,8 +82,6 @@
             </div>
             <br><br>
             <div class="row">
-                <div class="col-4">
-                </div>
             </div>
         </div>
     </div>
