@@ -80,17 +80,7 @@
                 contactarnos a traves de via watsaap o por el correo datado anteriormente.</h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/143edcd4b7bfa613568839d574e5155c6063a3ac/p15.PNG"
                 alt="" class="w-100" height="450" width="700">
-            <br><br>
-            <div class="row">
-                <div class="col-6">
-                    <h1 class="text-center">Codigo QR</h1>
-                    <h3>Te direccionamos a la pagina de instagram para mas info.</h3>
-                    <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/qrespumoso.PNG"
-                        alt="" class="w-100" height="250">
-                </div>
-            </div>
             <br>
-            <hr>
             <div class="row">
                 <div class="col-md-3">
                     <h1 class="text-center">Tapiceria</h1>
