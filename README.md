@@ -58,41 +58,41 @@
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
             <img src="https://drive.google.com/file/d/1E3VA51kxUmdOHPRzBB9DOr7UiZSX3CMm/view" alt="" class="w-100"
-                height="280">
+                height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
             <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
-                height="280">
+                height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="280">
+            <img src="../img/p6.jpeg" alt="" class="w-100" height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Lavado autos exterior</h1>
             <h3 class="text-center">Precio: </h3>
             <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
-                height="280">
+                height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
             <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
-                height="280">
+                height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: $15.000 </h3>
             <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
-                height="280">
+                height="250">
             <br><br>
         </div>
     </div>
