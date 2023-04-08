@@ -39,8 +39,28 @@
     <hr><br>
     <div class="row">
         <div class="col-6">
-            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
-                height="455">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
+                            class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p1.jpeg"
+                            class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
         </div>
         <div class="col-6">
             <h1 class="text-center">RapidosyEspumosos</h1>
@@ -92,6 +112,20 @@
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Info</h3>
             <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt="" class="w-100"
+                height="250">
+            <br><br>
+        </div>
+                <div class="col-3 gx-15 bordes">
+            <h1 class="text-center">Limpieza vehiculo completa</h1>
+            <h3 class="text-center">Info</h3>
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg" alt="" class="w-100"
+                height="250">
+            <br><br>
+        </div>
+                <div class="col-3 gx-15 bordes">
+            <h1 class="text-center">Tapiceria</h1>
+            <h3 class="text-center">Info</h3>https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p8.jpeg" alt="" class="w-100"
                 height="250">
             <br><br>
         </div>
