@@ -96,7 +96,7 @@
             <br><br>
         </div>
         <div class="col-md-3 gx-15 bordes">
-            <h1 class="text-center">Labado interno vehiculo</h1>
+            <h1 class="text-center">Labado vehiculo</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
                 alt="" class="w-100" height="250">
@@ -110,7 +110,7 @@
             <br><br>
         </div>
         <div class="col-md-3 gx-15 bordes">
-            <h1 class="text-center">Lavado autos exterior</h1>
+            <h1 class="text-center">Lavado vehiculo</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
                 alt="" class="w-100" height="250">
@@ -139,16 +139,12 @@
         <br><br>
     </div>
     <div class="col-md-3 gx-15 bordes">
-        <h1 class="text-center">Limpieza vehiculo completa</h1>
+        <h1 class="text-center">Limpieza vehiculo</h1>
         <h3 class="text-center"></h3>
         <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
             alt="" class="w-100" height="250">
         <br><br>
     </div>
-
-
-
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
