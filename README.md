@@ -71,7 +71,7 @@
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
-            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt="" class="w-100" height="250">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p13.PNG" alt="" class="w-100" height="250">
             <br><br>
         </div>
         <div class="col-3 gx-15 bordes">
