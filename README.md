@@ -84,28 +84,28 @@
     <br>
     <hr>
     <div class="bg-light">
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p10.PNG?raw=true" alt="" class="w-100"
                 height="250">
             <br><br>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Labado vehiculo</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG"
                 alt="" class="w-100" height="250">
             <br><br>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/ce55669cd8c0699f7b88c188c1907ae34cb1f036/p13.PNG"
                 alt="" class="w-100" height="250">
             <br><br>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Lavado vehiculo</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p7.jpeg"
@@ -113,14 +113,14 @@
             <br><br>
         </div>
         <br><br>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center"></h3>
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p.jpg"
                 alt="" class="w-100" height="250">
             <br><br>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h1 class="text-center">Aprovecha!!.</h1>
             <h3 class="text-center"></h3>
             <img src="" alt="" class="w-100" height="250" width="">
