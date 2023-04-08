@@ -1,5 +1,4 @@
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +8,6 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilo.css">
 </head>
-
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -41,7 +39,8 @@
     <hr><br>
     <div class="row">
         <div class="col-6">
-            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100" height="455">
+            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
+                height="455">
         </div>
         <div class="col-6">
             <h1 class="text-center">RapidosyEspumosos</h1>
@@ -52,54 +51,50 @@
             </div>
         </div>
     </div>
-
     <br>
     <hr><br>
-
     <div class="row">
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
-            <img src="https://drive.google.com/file/d/1E3VA51kxUmdOHPRzBB9DOr7UiZSX3CMm/view" alt="" class="w-100" height="280">
+            <img src="https://drive.google.com/file/d/1E3VA51kxUmdOHPRzBB9DOr7UiZSX3CMm/view" alt="" class="w-100"
+                height="280">
             <br><br>
-
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
-            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100" height="280">
+            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
+                height="280">
             <br><br>
-
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
             <img src="../img/p6.jpeg" alt="" class="w-100" height="280">
             <br><br>
-
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Lavado autos exterior</h1>
             <h3 class="text-center">Precio: </h3>
-            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100" height="280">
+            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
+                height="280">
             <br><br>
-
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: </h3>
-            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100" height="280">
+            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
+                height="280">
             <br><br>
-
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precio: $15.000 </h3>
-            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100" height="280">
+            <img src="https://drive.google.com/drive/u/0/folders/1OegfyDyMW9dZUCWfWDpCQJSwdeKSZ5DE" alt="" class="w-100"
+                height="280">
             <br><br>
-
         </div>
-
     </div>
 
 
