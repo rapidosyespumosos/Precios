@@ -60,9 +60,9 @@
 
         </div>
         <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Lavado de autos</h1>
+            <h1 class="text-center">Lavado de autos interior</h1>
             <h3 class="text-center">Precios: $</h3>
-            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p7.jpeg?raw=true" alt="" class="w-100" height="280">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/a9795e879194f46f3155c904abc3ade5c60506e8/p12.PNG" alt="" class="w-100" height="280">
             <br><br>
 
         </div>
@@ -97,7 +97,7 @@
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
             <h3 class="text-center">Precios: $</h3>
-            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p8.jpeg?raw=true" alt="" class="w-100" height="280">
+            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p11.PNG?raw=true" alt="" class="w-100" height="280">
             <br><br>
             
         </div>
