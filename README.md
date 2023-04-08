@@ -79,7 +79,7 @@
             <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/143edcd4b7bfa613568839d574e5155c6063a3ac/p15.PNG"
                 alt="" class="w-100" height="450" width="700">
             <br><br>
-            <div class="col-6">
+            <div class="col-6" clear="left">
                 <h1 class="text-center">Codigo QR</h1>
                 <h3>Te direccionamos a la pagina de instagram para mas info.</h3>
                 <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/qrespumoso.PNG"
