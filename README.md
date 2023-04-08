@@ -8,7 +8,7 @@
     <title>Precios</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/estilo.css">
+    <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
@@ -42,50 +42,52 @@
     <br>
     <hr><br>
 
+<div class="container">
+
     <div class="row bg-light">
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: </h3>
-            <img src="../img/p.jpg" alt="" class="w-100" height="280">
+            <h3 class="text-center"></h3>
+            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p10.PNG?raw=true" alt="" class="w-100" height="280">
             <br><br>
 
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: </h3>
-            <img src="../img/p2.jpeg" alt="" class="w-100" height="280">
+            <h3 class="text-center"></h3>
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/e42570dc5a512c3971448f41b78c7a40dfda9da6/p10.PNG" alt="" class="w-100" height="280">
             <br><br>
 
         </div>
         <div class="col-3 gx-15 bordes">
-            <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: </h3>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="280">
+            <h1 class="text-center">Lavado de autos</h1>
+            <h3 class="text-center"></h3>
+            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p7.jpeg?raw=true" alt="" class="w-100" height="280">
             <br><br>
 
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Lavado autos exterior</h1>
             <h3 class="text-center">Precio: </h3>
-            <img src="../img/p7.jpeg" alt="" class="w-100" height="280">
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/e42570dc5a512c3971448f41b78c7a40dfda9da6/p3.PNG" alt="" class="w-100" height="280">
             <br><br>
 
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: </h3>
-            <img src="../img/p8.jpeg" alt="" class="w-100" height="280">
+            <h3 class="text-center"></h3>
+            <img src="https://raw.githubusercontent.com/rapidosyespumosos/Rapidos/9a485a6a9605ef651ba550e851a77885e5c8322d/p2.jpeg" alt="" class="w-100" height="280">
             <br><br>
 
         </div>
         <div class="col-3 gx-15 bordes">
             <h1 class="text-center">Tapiceria</h1>
-            <h3 class="text-center">Precio: $15.000 </h3>
-            <img src="../img/p6.jpeg" alt="" class="w-100" height="280">
+            <h3 class="text-center"></h3>
+            <img src="https://github.com/rapidosyespumosos/Rapidos/blob/RP-page/p8.jpeg?raw=true" alt="" class="w-100" height="280">
             <br><br>
         </div>
     </div>
-
+</div>
 
 
 
